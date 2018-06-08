@@ -12,6 +12,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
+ * 整合Mybatis
  * Created by songyouyu on 2018/6/7
  */
 @RestController
