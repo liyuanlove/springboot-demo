@@ -1,7 +1,6 @@
 package com.imooc.exception;
 
 import com.imooc.common.JsonResult;
-import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import javax.servlet.http.HttpServletRequest;
